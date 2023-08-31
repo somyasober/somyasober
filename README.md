@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyasober&label=Profile%20views&color=0e75b6&style=flat" alt="somyasober" /> </p>
 
-- 🔭 I’m currently working on **Print mantra**
+- 🔭 I’m currently working in **Print mantra**
 
 - 🌱 I’m currently learning **backend development**
 
